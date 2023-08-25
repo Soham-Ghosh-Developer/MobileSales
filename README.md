@@ -19,6 +19,4 @@ To access the API, you'll need to generate a token using the following steps:
 
 API Testing and Exploration
 
-You can test and explore our API using Swagger by visiting the following URL: Swagger URL. Alternatively, you can also use the provided Postman Collection for testing.
-
-Feel free to reach out if you have any questions or need further assistance!
+You can test and explore our API using Swagger by visiting the following URL: [Swagger URL](https://localhost:7001/swagger/index.html). Alternatively, you can also use the provided Postman Collection for testing.
