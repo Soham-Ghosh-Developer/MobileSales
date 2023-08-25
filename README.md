@@ -1,4 +1,3 @@
-Sure, here's how you can present the token generation steps in a Markdown (.md) file:
 Token Generation Steps
 
 To access the API, you'll need to generate a token using the following steps:
